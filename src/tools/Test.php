@@ -4,7 +4,7 @@ namespace zhenye963\tools;
 class Test
 {
     
-    public function hello(){
+    public static function hello(){
         echo "Hello";
     }    
     

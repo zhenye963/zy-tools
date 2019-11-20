@@ -17,7 +17,7 @@
 			"src/common.php"
 		],
 		"psr-4" : {
-			"zhenye\\tools\\" : "src"
+			"zhenye963\\" : "src"
 		}
 	}
 }
