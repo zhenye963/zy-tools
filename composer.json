@@ -1,6 +1,8 @@
 {
 	"name" : "zhenye963/zy-tools",
 	"type" : "library",
+	"license" : "MIT",
+	"homepage" : "http://www.nightlan.top",
 	"authors" : [{
 			"name" : "zhenye",
 			"email" : "zhenye@nightlan.top"
