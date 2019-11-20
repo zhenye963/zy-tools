@@ -1,0 +1,21 @@
+{
+	"name" : "zhenye963/zy-tools",
+	"type" : "library",
+	"authors" : [{
+			"name" : "zhenye",
+			"email" : "zhenye@nightlan.top"
+		}
+	],
+	"require" : {
+		"php" : ">=5.6.0",
+		"topthink/framework" : "5.1.*"
+	},
+	"autoload" : {
+		"files" : [
+			"src/common.php"
+		],
+		"psr-4" : {
+			"zhenye\\tools\\" : "src"
+		}
+	}
+}
